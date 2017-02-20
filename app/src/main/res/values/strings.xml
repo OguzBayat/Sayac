@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sayac</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="reklam_kimligi">ca-app-pub-1429465870076187/2668085750</string>
+
+    <array name="renkler">
+        <item>Sarı</item>
+        <item>Lacivert</item>
+        <item>Yeşil</item>
+        <item>Kırmızı</item>
+    </array>
+
+    <array name="renk_pozisyon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+</resources>
